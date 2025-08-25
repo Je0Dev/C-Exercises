@@ -36,7 +36,3 @@ All programs are written in standard C and can be compiled with `gcc`.
     ```
 
 ---
-
-## 📂 Project Structure
-
-The project follows the naming convention required by the course instructions.
