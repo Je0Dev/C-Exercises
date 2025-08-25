@@ -1,8 +1,6 @@
 # C Programming Exercises | University of Peloponnese
 
-![Project Banner](https://i.imgur.com/your-banner-image.png)
 ![Language](https://img.shields.io/badge/Language-C-blue.svg)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A comprehensive collection of C programming solutions for the bonus exercises of the **"Programming I"** course at the University of Peloponnese, Department of Informatics & Telecommunications (Academic Year 2024-2025).
