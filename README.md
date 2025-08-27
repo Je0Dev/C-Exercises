@@ -11,7 +11,7 @@ All programs are written in standard C and can be compiled with `gcc`.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Je0Dev/C-Exercises.git
+    git clone https://github.com/Je0Dev/C-Exercises_1.git
     ```
 
 2.  **Navigate to the project directory:**
